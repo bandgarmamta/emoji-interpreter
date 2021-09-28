@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap");
+.App {
+  font-family: "Inconsolata", monospace;
+  text-align: center;
+}
+
+.input {
+  padding: 1rem 3rem;
+  border: 1px solid var(--primary-color);
+  border-radius: 0.5rem;
+}
+:root {
+  --primary-color: #f87171;
+}
+.heading {
+  color: var(--primary-color);
+  font-size: 3rem;
+}
+
+.heading1 {
+  color: var(--primary-color);
+  font-size: 2rem;
+}
+.emo {
+  color: var(--primary-color);
+  font-size: 2.5rem;
+}
